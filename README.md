@@ -28,8 +28,9 @@
 
 - 🎵 [Image to Music Generator](https://github.com/titiksha95/-Image-to-Music-Generator.git)
 - 🖐️ [Hand Gesture Control System](https://github.com/titikshajangid/gesture-controller)
+- 🎮 [Tic Tac Toe Game](https://github.com/titiksha95/Tic-Tac-Toe-Game.git)
 - 🧠 [Facial Sentiment Analysis](https://github.com/titiksha95/Face-sentiment-analysis.git)
-- 🌐 [Responsive Web Pages]([https://github.com/titikshajangid/web-projects](https://github.com/titiksha95/Bootstrap.git))
+- 🌐 [Responsive Web Pages](https://github.com/titiksha95/Bootstrap.git)
 
 ---
 
