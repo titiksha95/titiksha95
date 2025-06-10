@@ -28,18 +28,12 @@
 
 - 🎵 [Image to Music Generator](https://github.com/titiksha95/-Image-to-Music-Generator.git)
 - 🖐️ [Hand Gesture Control System](https://github.com/titikshajangid/gesture-controller)
-- 🧠 [Facial Sentiment Analysis](https://github.com/titikshajangid/face-sentiment-analysis)
-- 🌐 [Responsive Web Projects](https://github.com/titikshajangid/web-projects)
+- 🧠 [Facial Sentiment Analysis](https://github.com/titiksha95/Face-sentiment-analysis.git)
+- 🌐 [Responsive Web Pages]([https://github.com/titikshajangid/web-projects](https://github.com/titiksha95/Bootstrap.git))
 
 ---
 
 💬 **Let’s Connect:**
 
-<a href="https://www.linkedin.com/in/titiksha-jangid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:titikshajangid@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
----
-
-⭐️ *If you like what I do, consider starring some of my repositories and following me!*
-
-
+<a href="[https://www.linkedin.com/in/titiksha-jangid](https://www.linkedin.com/in/titiksha-jangid-60063b24b/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:jangidtitiksha@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
