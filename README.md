@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Titiksha Jangid</h1>
 <h3 align="center">AI Engineer | Web Developer | Pythonista | Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=titikshajangid&label=Profile%20views&color=0e75b6&style=flat" alt="titikshajangid" />
-</p>
-
 ---
 
 🚀 **About Me:**
@@ -27,19 +23,10 @@
 
 ---
 
-📈 **GitHub Stats:**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=titikshajangid&show_icons=true&theme=tokyonight" alt="titikshajangid" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=titikshajangid&theme=tokyonight" alt="streak"/>
-</p>
-
----
 
 📌 **Pinned Projects:**
 
-- 🎵 [Image to Music Generator](https://github.com/titikshajangid/image-to-music)
+- 🎵 [Image to Music Generator](https://github.com/titiksha95/-Image-to-Music-Generator.git)
 - 🖐️ [Hand Gesture Control System](https://github.com/titikshajangid/gesture-controller)
 - 🧠 [Facial Sentiment Analysis](https://github.com/titikshajangid/face-sentiment-analysis)
 - 🌐 [Responsive Web Projects](https://github.com/titikshajangid/web-projects)
