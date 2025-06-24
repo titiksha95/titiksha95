@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Titiksha</h1>
-<h3 align="center">AI Engineer | Web Developer | Pythonista | Tech Enthusiast</h3>
+<h3 align="center">AI Engineer | Web Developer | UI/UX Designer | Tech Enthusiast</h3>
 
 ---
 
