@@ -41,11 +41,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=titiksha95&layout=compact&theme=radical)
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=titiksha95&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=titiksha95&theme=github_dark)
-
 ---
 
 📌 **Pinned Projects:**
