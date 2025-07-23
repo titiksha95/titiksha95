@@ -8,8 +8,7 @@
 - 🔭 I’m currently pursuing **B.Tech in Artificial Intelligence & Machine Learning**  
 - 🌱 Currently learning and building with **AI, ML, Python, and Full Stack Web Development**
 - 💻 Passionate about creating intelligent systems and interactive websites  
-- 🧠 Always curious to explore new tech and apply it in creative ways  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/titiksha-jangid-60063b24b/)**  
+- 🧠 Always curious to explore new tech and apply it in creative ways 
 - ⚡ Fun fact: I love blending art and code — from **music generation** to **gesture control projects**
 
 ---
