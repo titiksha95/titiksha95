@@ -33,11 +33,15 @@
 
 
 ---
-## 📈 GitHub Stats:
 
-![Titiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+## 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=titiksha95&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=titiksha95&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=titiksha95&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=titiksha95&theme=github_dark)
 
 ---
 
