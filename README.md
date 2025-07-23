@@ -44,7 +44,8 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=titiksha95&theme=algolia&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=titiksha95&theme=algolia&margin-w=10&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ---
