@@ -42,13 +42,10 @@
 
 ---
 
-📌 **Pinned Projects:**
+## 🏆 GitHub Trophies
 
-- 🎵 [Image to Music Generator](https://github.com/titiksha95/-Image-to-Music-Generator.git)
-- 🖐️ [Hand Gesture Control System](https://github.com/titikshajangid/gesture-controller)
-- 🎮 [Tic Tac Toe Game](https://github.com/titiksha95/Tic-Tac-Toe-Game.git)
-- 🧠 [Facial Sentiment Analysis](https://github.com/titiksha95/Face-sentiment-analysis.git)
-- 🌐 [Responsive Web Pages](https://github.com/titiksha95/Bootstrap.git)
+[![trophy](https://github-profile-trophy.vercel.app/?username=titiksha95&theme=algolia&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
