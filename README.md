@@ -33,14 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=titiksha95&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=titiksha95&layout=compact&theme=radical)
-
-
----
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=titiksha95&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
