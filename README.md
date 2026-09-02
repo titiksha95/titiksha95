@@ -96,30 +96,6 @@
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=titiksha95&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Titiksha's GitHub statistics"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=titiksha95&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=titiksha95&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
-
----
-
 ## Connect With Me
 
 <p align="center">
