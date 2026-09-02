@@ -72,7 +72,7 @@
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
