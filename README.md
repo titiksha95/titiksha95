@@ -38,13 +38,13 @@
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,jquery" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,jquery" alt="Frontend technologies" />
 </p>
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs" alt="Backend technologies" />
 </p>
 
 ### .NET Technologies
