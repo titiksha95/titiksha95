@@ -60,7 +60,7 @@
 ### Artificial Intelligence and Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" alt="AI and machine learning tools" />
+  <img src="https://skillicons.dev/icons?i=python" alt="AI and machine learning tools" />
 </p>
 
 <p>
