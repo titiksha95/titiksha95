@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Titiksha Jangid</h1>
 
 <h3 align="center">
@@ -12,12 +11,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=titiksha95&label=Profile%20Views&color=6c63ff&style=flat-square"
-    alt="Profile views"
-  />
-</p>
 
 ---
 
@@ -155,4 +148,3 @@
 <p align="center">
   <i>Learning, building and growing—one project at a time.</i>
 </p>
-```
