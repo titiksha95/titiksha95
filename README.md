@@ -81,18 +81,6 @@
 
 ---
 
-## Areas of Interest
-
-- Full-stack web application development
-- ASP.NET Core MVC and RESTful Web APIs
-- SQL Server and database integration
-- Entity Framework Core and ADO.NET
-- Authentication and authorization using cookies and JWT
-- Artificial intelligence and machine learning applications
-- Computer vision and gesture-controlled systems
-
----
-
 ## Connect With Me
 
 <p align="center">
