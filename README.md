@@ -14,16 +14,6 @@
 
 ---
 
-## About Me
-
-- Completed my **B.Tech in Artificial Intelligence & Machine Learning**
-- Currently working with **C#, ASP.NET Core, SQL Server and Web APIs**
-- Interested in **artificial intelligence, machine learning and backend development**
-- Continuously improving my knowledge of **.NET, database development and software architecture**
-- Open to collaborating on **AI, .NET and full-stack development projects**
-
----
-
 ## Technical Skills
 
 ### Programming Languages
