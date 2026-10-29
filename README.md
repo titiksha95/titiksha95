@@ -4,6 +4,12 @@
   AI & ML Graduate | .NET Developer | Full-Stack Web Developer
 </h3>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;ASP.NET+Core+%7C+C%23+%7C+SQL;Full-Stack+Web+Development;Building+Practical+Software+Solutions"
+    alt="Typing introduction"
+  />
+</p>
 
 ---
 
